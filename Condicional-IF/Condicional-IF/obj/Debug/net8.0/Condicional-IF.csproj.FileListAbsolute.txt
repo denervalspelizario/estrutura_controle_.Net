@@ -1,0 +1,15 @@
+D:\repositorio\c-_fundamentos\Condicional-IF\Condicional-IF\bin\Debug\net8.0\Condicional-IF.exe
+D:\repositorio\c-_fundamentos\Condicional-IF\Condicional-IF\bin\Debug\net8.0\Condicional-IF.deps.json
+D:\repositorio\c-_fundamentos\Condicional-IF\Condicional-IF\bin\Debug\net8.0\Condicional-IF.runtimeconfig.json
+D:\repositorio\c-_fundamentos\Condicional-IF\Condicional-IF\bin\Debug\net8.0\Condicional-IF.dll
+D:\repositorio\c-_fundamentos\Condicional-IF\Condicional-IF\bin\Debug\net8.0\Condicional-IF.pdb
+D:\repositorio\c-_fundamentos\Condicional-IF\Condicional-IF\obj\Debug\net8.0\Condicional-IF.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\c-_fundamentos\Condicional-IF\Condicional-IF\obj\Debug\net8.0\Condicional-IF.AssemblyInfoInputs.cache
+D:\repositorio\c-_fundamentos\Condicional-IF\Condicional-IF\obj\Debug\net8.0\Condicional-IF.AssemblyInfo.cs
+D:\repositorio\c-_fundamentos\Condicional-IF\Condicional-IF\obj\Debug\net8.0\Condicional-IF.csproj.CoreCompileInputs.cache
+D:\repositorio\c-_fundamentos\Condicional-IF\Condicional-IF\obj\Debug\net8.0\Condicional-IF.sourcelink.json
+D:\repositorio\c-_fundamentos\Condicional-IF\Condicional-IF\obj\Debug\net8.0\Condicional-IF.dll
+D:\repositorio\c-_fundamentos\Condicional-IF\Condicional-IF\obj\Debug\net8.0\refint\Condicional-IF.dll
+D:\repositorio\c-_fundamentos\Condicional-IF\Condicional-IF\obj\Debug\net8.0\Condicional-IF.pdb
+D:\repositorio\c-_fundamentos\Condicional-IF\Condicional-IF\obj\Debug\net8.0\Condicional-IF.genruntimeconfig.cache
+D:\repositorio\c-_fundamentos\Condicional-IF\Condicional-IF\obj\Debug\net8.0\ref\Condicional-IF.dll
