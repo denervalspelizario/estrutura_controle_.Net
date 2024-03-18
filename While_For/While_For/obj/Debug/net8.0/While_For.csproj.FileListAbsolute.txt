@@ -1,0 +1,15 @@
+D:\repositorio\estrutura_controle_.Net\While_For\While_For\bin\Debug\net8.0\While_For.exe
+D:\repositorio\estrutura_controle_.Net\While_For\While_For\bin\Debug\net8.0\While_For.deps.json
+D:\repositorio\estrutura_controle_.Net\While_For\While_For\bin\Debug\net8.0\While_For.runtimeconfig.json
+D:\repositorio\estrutura_controle_.Net\While_For\While_For\bin\Debug\net8.0\While_For.dll
+D:\repositorio\estrutura_controle_.Net\While_For\While_For\bin\Debug\net8.0\While_For.pdb
+D:\repositorio\estrutura_controle_.Net\While_For\While_For\obj\Debug\net8.0\While_For.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\estrutura_controle_.Net\While_For\While_For\obj\Debug\net8.0\While_For.AssemblyInfoInputs.cache
+D:\repositorio\estrutura_controle_.Net\While_For\While_For\obj\Debug\net8.0\While_For.AssemblyInfo.cs
+D:\repositorio\estrutura_controle_.Net\While_For\While_For\obj\Debug\net8.0\While_For.csproj.CoreCompileInputs.cache
+D:\repositorio\estrutura_controle_.Net\While_For\While_For\obj\Debug\net8.0\While_For.sourcelink.json
+D:\repositorio\estrutura_controle_.Net\While_For\While_For\obj\Debug\net8.0\While_For.dll
+D:\repositorio\estrutura_controle_.Net\While_For\While_For\obj\Debug\net8.0\refint\While_For.dll
+D:\repositorio\estrutura_controle_.Net\While_For\While_For\obj\Debug\net8.0\While_For.pdb
+D:\repositorio\estrutura_controle_.Net\While_For\While_For\obj\Debug\net8.0\While_For.genruntimeconfig.cache
+D:\repositorio\estrutura_controle_.Net\While_For\While_For\obj\Debug\net8.0\ref\While_For.dll
